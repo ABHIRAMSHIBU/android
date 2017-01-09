@@ -2,11 +2,7 @@
 <manifest>
 
   <remote  name="github"
-           fetch=".."
-           review="review.lineageos.org" />
-
-  <remote  name="private"
-           fetch="ssh://git@github.com" />
+           fetch=".."/>
 
   <remote  name="aosp"
            fetch="https://android.googlesource.com"
